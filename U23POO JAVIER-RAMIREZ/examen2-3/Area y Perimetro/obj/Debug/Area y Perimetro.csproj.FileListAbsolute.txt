@@ -1,0 +1,12 @@
+c:\users\lc-equipo-35\documents\visual studio 2015\Projects\examen2-3\Area y Perimetro\bin\Debug\Area y Perimetro.exe.config
+c:\users\lc-equipo-35\documents\visual studio 2015\Projects\examen2-3\Area y Perimetro\obj\Debug\Area y Perimetro.csprojResolveAssemblyReference.cache
+c:\users\lc-equipo-35\documents\visual studio 2015\Projects\examen2-3\Area y Perimetro\obj\Debug\Area_y_Perimetro.Form1.resources
+c:\users\lc-equipo-35\documents\visual studio 2015\Projects\examen2-3\Area y Perimetro\obj\Debug\Area_y_Perimetro.Properties.Resources.resources
+c:\users\lc-equipo-35\documents\visual studio 2015\Projects\examen2-3\Area y Perimetro\obj\Debug\Area y Perimetro.csproj.GenerateResource.Cache
+c:\users\lc-equipo-35\documents\visual studio 2015\Projects\examen2-3\Area y Perimetro\bin\Debug\Area y Perimetro.exe
+c:\users\lc-equipo-35\documents\visual studio 2015\Projects\examen2-3\Area y Perimetro\bin\Debug\Area y Perimetro.pdb
+c:\users\lc-equipo-35\documents\visual studio 2015\Projects\examen2-3\Area y Perimetro\obj\Debug\Area y Perimetro.exe
+c:\users\lc-equipo-35\documents\visual studio 2015\Projects\examen2-3\Area y Perimetro\obj\Debug\Area y Perimetro.pdb
+D:\examen2-3\Area y Perimetro\bin\Debug\Area y Perimetro.exe.config
+D:\examen2-3\Area y Perimetro\obj\Debug\Area y Perimetro.exe
+D:\examen2-3\Area y Perimetro\obj\Debug\Area y Perimetro.pdb

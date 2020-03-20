@@ -1,0 +1,9 @@
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\Empeleados\bin\Debug\Empeleados.exe.config
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\Empeleados\bin\Debug\Empeleados.exe
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\Empeleados\bin\Debug\Empeleados.pdb
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\Empeleados\obj\Debug\Empeleados.Form1.resources
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\Empeleados\obj\Debug\Empeleados.Properties.Resources.resources
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\Empeleados\obj\Debug\Empeleados_Restaurante.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\Empeleados\obj\Debug\Empeleados.exe
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\Empeleados\obj\Debug\Empeleados.pdb
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\Empeleados\obj\Debug\Empeleados_Restaurante.csprojResolveAssemblyReference.cache

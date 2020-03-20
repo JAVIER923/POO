@@ -7,3 +7,6 @@ C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\solu
 C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\solucion entradas\entradas\obj\Debug\Concierto.csproj.GenerateResource.Cache
 C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\solucion entradas\entradas\obj\Debug\entradas.exe
 C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\solucion entradas\entradas\obj\Debug\entradas.pdb
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 2\solucion entradas\entradas\bin\Debug\entradas.exe.config
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 2\solucion entradas\entradas\obj\Debug\entradas.exe
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 2\solucion entradas\entradas\obj\Debug\entradas.pdb

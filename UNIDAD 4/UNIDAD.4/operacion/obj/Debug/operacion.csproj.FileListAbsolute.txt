@@ -1,0 +1,9 @@
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\operacion\bin\Debug\operacion.exe.config
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\operacion\obj\Debug\operacion.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\operacion\obj\Debug\operacion.Form1.resources
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\operacion\obj\Debug\operacion.Properties.Resources.resources
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\operacion\obj\Debug\operacion.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\operacion\bin\Debug\operacion.exe
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\operacion\bin\Debug\operacion.pdb
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\operacion\obj\Debug\operacion.exe
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\UNIDAD 4\UNIDAD.4\operacion\obj\Debug\operacion.pdb
