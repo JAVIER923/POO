@@ -1,0 +1,22 @@
+c:\users\javier\documents\visual studio 2015\Projects\classroom\alumnos\bin\Debug\alumnos.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\classroom\alumnos\bin\Debug\alumnos.exe
+c:\users\javier\documents\visual studio 2015\Projects\classroom\alumnos\bin\Debug\alumnos.pdb
+c:\users\javier\documents\visual studio 2015\Projects\classroom\alumnos\obj\Debug\alumnos.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2015\Projects\classroom\alumnos\obj\Debug\alumnos.Form1.resources
+c:\users\javier\documents\visual studio 2015\Projects\classroom\alumnos\obj\Debug\alumnos.Properties.Resources.resources
+c:\users\javier\documents\visual studio 2015\Projects\classroom\alumnos\obj\Debug\alumnos.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2015\Projects\classroom\alumnos\obj\Debug\alumnos.exe
+c:\users\javier\documents\visual studio 2015\Projects\classroom\alumnos\obj\Debug\alumnos.pdb
+c:\users\javier\documents\visual studio 2015\Projects\classroom\alumnos\obj\Debug\alumnos.REGISTRO.resources
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\alumnos\bin\Debug\alumnos.exe.config
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\alumnos\obj\Debug\alumnos.exe
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\alumnos\obj\Debug\alumnos.pdb
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\alumnos\bin\Debug\alumnos.exe
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\alumnos\bin\Debug\alumnos.pdb
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\alumnos\obj\Debug\alumnos.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\alumnos\obj\Debug\alumnos.Form1.resources
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\alumnos\obj\Debug\alumnos.Properties.Resources.resources
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\alumnos\obj\Debug\alumnos.REGISTRO.resources
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\alumnos\obj\Debug\alumnos.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\alumnos\obj\Debug\alumnos.REGISTRO_M.resources
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\alumnos\obj\Debug\alumnos.REGISTRO_MATERIAS.resources
