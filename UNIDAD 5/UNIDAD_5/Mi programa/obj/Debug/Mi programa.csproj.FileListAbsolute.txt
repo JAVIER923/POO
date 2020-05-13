@@ -1,0 +1,9 @@
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\Mi programa\bin\Debug\Mi programa.exe.config
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\Mi programa\bin\Debug\Mi programa.exe
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\Mi programa\bin\Debug\Mi programa.pdb
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\Mi programa\obj\Debug\Mi programa.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\Mi programa\obj\Debug\Mi_programa.Form1.resources
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\Mi programa\obj\Debug\Mi_programa.Properties.Resources.resources
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\Mi programa\obj\Debug\Mi programa.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\Mi programa\obj\Debug\Mi programa.exe
+C:\Users\Javier\Documents\SEGUNDO SEMESTRE\PROGRAMACION ORIENTADA A OBJETOS\POO\UNIDAD 5\UNIDAD_5\Mi programa\obj\Debug\Mi programa.pdb
